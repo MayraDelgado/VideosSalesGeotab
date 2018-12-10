@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+.col-md-2,
+.col-md-1 {
+    padding-left: 0px;
+}
+
+
+element.style {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}

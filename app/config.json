@@ -1,0 +1,21 @@
+{
+  "name": "videos",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "videos.html",
+    "path": "",
+    "menuName": {
+      "en": "videos"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "videos",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
